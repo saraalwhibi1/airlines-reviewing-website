@@ -5,4 +5,4 @@ standard user can sign up, log in/log out, add/delete/update a review about an a
 
 admin can log in/log out, add/delete/update an airline.
 
-built using PHP, JavaScript, CSS.
+built using PHP, JavaScript, CSS, SQL.
